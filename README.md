@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -2448,3 +2449,6 @@ If you have ideas for more “How To” recipes that should be on this page, [le
 
 Show "Hello World" :D as many times as you click the button. AFter that by clicking on the "Hello Wolrd"s you can change their color.
 >>>>>>> 2b021cd6a132276d8b71fe3a2b6123ccd960b207
+=======
+# My-First-React-Program
+>>>>>>> 58c2f68643691efb29d9c4103832671467142c6c
